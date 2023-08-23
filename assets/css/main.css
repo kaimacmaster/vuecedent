@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "SF Pro";
+  src: url("/SF-Pro-Display-Medium.otf") format("otf");
+  font-weight: medium;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-sf: "San Francisco Pro Display";
+  --font-inter: "Inter";
+}
