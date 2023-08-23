@@ -81,7 +81,7 @@ npx create-next-app vuecedent --example "https://github.com/kaimacmaster/vuecede
 
 ## Author
 
-- Kai Macmaster ([@kaimacmaster](https://twitter.com/kaimacmaster)
+- Kai Macmaster ([@kaimacmaster](https://twitter.com/kaimacmaster))
 
 ## Credits
 
